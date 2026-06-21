@@ -20,6 +20,12 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://sic.live.impresa.pt/sic1080p.m3u8
 
+#EXTINF:-1 group-title="Portugal" tvg-id="portocanal.fcporto.pt”,Porto Canal
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-id="pt.euronews.com”,Euronews Portugal
+https://www.youtube.com/euronewspt/live
+
 #EXTINF:-1 group-title="Portugal" tvg-id="RTPNoticias.pt",RTP Notícias
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-origin=https://www.rtp.pt
