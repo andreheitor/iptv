@@ -20,12 +20,6 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://sic.live.impresa.pt/sic1080p.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="portocanal.fcporto.pt”,Porto Canal
-https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
-
-#EXTINF:-1 group-title="Portugal" tvg-id="pt.euronews.com”,Euronews Portugal
-https://www.youtube.com/euronewspt/live
-
 #EXTINF:-1 group-title="Portugal" tvg-id="RTPNoticias.pt",RTP Notícias
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-origin=https://www.rtp.pt
@@ -82,6 +76,17 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 #EXTVLCOPT:http-origin=https://sic.pt
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+
+#Spain
+
+#EXTINF:-1 group-title="Spain" tvg-id="rtve.es",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="rtve.es",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="rtve.es",24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #Brazil
 
