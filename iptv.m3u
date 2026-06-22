@@ -86,9 +86,6 @@ https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-id="RakutenTVTopMovies.es",Rakuten TV - Top Movies
 https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="ShemarooBollywood.us",Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
 #Belgium
 
 #EXTINF:-1 group-title="Belgium",BX1
@@ -97,7 +94,7 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 group-title="Belgium",ACTV
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
 
-#EXTINF:-1 group-title="Belgium",,BAM-TV
+#EXTINF:-1 group-title="Belgium",BAM-TV
 https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
 
 #EXTINF:-1 group-title="Belgium",Bel RTL
@@ -132,9 +129,6 @@ https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
 
 #EXTINF:-1 group-title="Belgium",Trends Z (French)
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
-
-#EXTINF:-1 tvg-id="KanaalZ.be@SD" tvg-logo="https://i.imgur.com/YzgYJxM.png" group-title="Business",Trends Z (Dutch)
-https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 
 #EXTINF:-1 group-title="Belgium",Zee One Français
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
@@ -177,6 +171,11 @@ https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 #EXTINF:-1 group-title="Italy" tvg-id="ItalianFishingTV.it",Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
 
+#India
+
+#EXTINF:-1 group-title="India" tvg-id="ShemarooBollywood.us",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
 #Angola
 
 #EXTINF:-1 group-title="Angola" tvg-id="TVZimbo.ao",TV Zimbo
@@ -184,6 +183,9 @@ https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Angola" tvg-id="MuzangalaTV.ao",Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+
+#EXTINF:-1 group-title="Angola" tvg-id="TVZimbo.ao",KK TV Angola
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 
 #Spain
 
