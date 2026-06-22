@@ -106,7 +106,7 @@ https://cbtvnow.com:5866/hls/livest2024.m3u8
 #EXTINF:-1 group-title="Brazil" tvg-id="TVBRICSPortuguese.br",TV BRICS
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Brazil" tvg-id="MyTimeMovieNetwork.br",MyTime Movie Network (BR)
+#EXTINF:-1 group-title="Brazil" tvg-id="MyTimeMovieNetwork.br",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Brazil" tvg-id="TVCultura.br" ,TV Cultura
@@ -136,19 +136,13 @@ https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
 #EXTINF:-1 group-title="Brazil",Blitstv
 https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 
-#EXTINF:-1 group-title="Brazil",Boas Novas (1080p)
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-
 #EXTINF:-1 group-title="Brazil",BR8 TV
 https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
-
-#EXTINF:-1 group-title="Brazil",Canal 25 Jundiaí
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 
 #EXTINF:-1 group-title="Brazil",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 
-#EXTINF:-1 group-title="Brazil",CazeTV (1080i)
+#EXTINF:-1 group-title="Brazil",Cazé TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 group-title="Brazil",Chroma TV
@@ -166,7 +160,7 @@ https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8
 #EXTINF:-1 group-title="Brazil",EUTV
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
-#EXTINF:-1 group-title="Brazil",FIFA+ Portuguese
+#EXTINF:-1 group-title="Brazil",FIFA+
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 
 #EXTINF:-1 group-title="Brazil",Gospel Cartoon
@@ -183,9 +177,6 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Brazil",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Brazil",MyTime Movie Network Brazil
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Brazil",NickOnline
 https://x1co.com.br/hls/stream.m3u8
@@ -241,9 +232,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 group-title="Brazil",TV Aldeia
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 
-#EXTINF:-1 group-title="Brazil",TV Aliança Catarinense
-https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
-
 #EXTINF:-1 group-title="Brazil",TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 
@@ -255,12 +243,6 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8
 
 #EXTINF:-1 group-title="Brazil",TV Cancao Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVCidadedePetropolis.br@SD" tvg-logo="https://i.imgur.com/xUs8gHV.png" group-title="Undefined",TV Cidade de Petrópolis (1080p) [Not 24/7]
-https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
-
-#EXTINF:-1 group-title="Brazil",TV Cidade Verde
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
 #EXTINF:-1 group-title="Brazil",TV Clube
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
