@@ -14,23 +14,11 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="SIC.pt",SIC
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTVLCOPT:http-origin=https://sic.pt
-#EXTVLCOPT:http-referrer=https://sic.pt/
-https://sic.live.impresa.pt/sic1080p.m3u8
-
 #EXTINF:-1 group-title="Portugal" tvg-id="RTPNoticias.pt",RTP Notícias
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Portugal" tvg-id="SICNoticias.pt",SIC Notícias
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTVLCOPT:http-origin=https://sicnoticias.pt
-#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
-https://sicnot.live.impresa.pt/sicnot.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-id="RTPMemoria.pt",RTP Memória
 #EXTVLCOPT:http-user-agent=Firefox
@@ -62,9 +50,6 @@ https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpinternacional
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="TVIAfrica.pt",TVI África
-#https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-
 #EXTINF:-1 group-title="Portugal" tvg-id="SICReplay.pt",SIC Replay
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-origin=https://sic.pt
@@ -76,6 +61,68 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 #EXTVLCOPT:http-origin=https://sic.pt
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-id="EuronewsPortuguese.fr",Euronews
+https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-id="ARTV.pt",ARTV
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-id="PortoCanal.pt",Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-id="Famatv.pt",Fama TV
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-id="RFPtv.pt",RFPtv
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal",Assim é Portugal
+https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-id="MovieSphere.us",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-id="RakutenTVTopMovies.es",Rakuten TV - Top Movies
+https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-id="RakutenViki.es",Rakuten Viki
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-id="ShemarooBollywood.us",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-id="RealWild.us",Real Wild
+https://lds-realwild-vizio.amagi.tv/playlist.m3u8
+
+#Deutschland
+
+#EXTINF:-1 group-title="Deutschland" tvg-id="EuronewsPortuguese.fr",Euronews
+https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
+
+#France
+
+#EXTINF:-1 group-title="France" tvg-id="EuronewsPortuguese.fr",Euronews
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="France" tvg-id="PressTV.ir",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+
+#Italy
+
+#EXTINF:-1 group-title="Italy" tvg-id="EuronewsPortuguese.fr",Euronews
+https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="Italy" tvg-id="ItalianFishingTV.it",Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
+
+#Angola
+
+#EXTINF:-1 group-title="Angola" tvg-id="TVZimbo.ao",TV Zimbo
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Angola" tvg-id="MuzangalaTV.ao",Muzangala TV
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 
 #Spain
 
@@ -97,6 +144,30 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 group-title="Spain" tvg-id="rtve.es",+24
 https://ztnr.rtve.es/ztnr/6108696.m3u8
 
+#EXTINF:-1 group-title="Spain" tvg-id="bondiatv.es",Bon Dia
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="324.es",3/24
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="tv3cat.es",TV 3 CAT
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="aragontv.es",Aragón TV Ⓢ
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="etb1.es",ETB1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="etb2.es",ETB2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="euronews.es",Euronews
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="HispanTV.ir",HispanTV
+https://live.presstv.ir/hls/hispantv.m3u8
+
 #Brazil
 
 #EXTINF:-1 group-title="Brazil" tvg-id="BraziTV.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BraziTV.png",BraziTV
@@ -115,6 +186,21 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-referrer=https://live.agrobrasiltv.com.br/ao-vivo.html
 https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577_output_0.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-id="BraziTV.us",BraziTV
+https://cbtvnow.com:5866/hls/livest2024.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-id="TVBRICSPortuguese.br",TV BRICS Portuguese
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-id="MyTimeMovieNetwork.br",MyTime Movie Network (BR)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-id="TVCultura.br" ,TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-id="ForaTedioTV.br",Fora Tédio TV
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 
 #Macau
 
