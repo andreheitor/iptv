@@ -2,6 +2,9 @@
 
 #Portugal
 
+#EXTINF:-1 group-title="Portugal",AXN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP1.pt",RTP 1
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-origin=https://www.rtp.pt
