@@ -138,6 +138,75 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 group-title="Spain" tvg-id="AragonTV.es",Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
+#Mexico
+
+#EXTINF:-1 group-title="Mexico",Alcarria TV
+http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 group-title="Mexico",Hipodromo de las Americas
+http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8
+
+#EXTINF:-1 group-title="Mexico",MVM Noticias
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="Mexico",RCG 3 Saltillo
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1 group-title="Mexico",TeleFormula
+https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1 group-title="Mexico",NRT 4 Monclova
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+
+#EXTINF:-1 group-title="Mexico",Las Estrellas
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
+#Peru
+
+#EXTINF:-1 group-title="Peru",Panamericana TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 group-title="Peru",ATV+ Noticias
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+
+#EXTINF:-1 group-title="Peru",Karibeña TV
+https://cu.onliv3.com/livevd/user1.m3u8
+
+#EXTINF:-1 group-title="Peru",Top Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
+
+#Venezuela
+
+#EXTINF:-1 group-title="Venezuela",Venevisión
+https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
+
+#EXTINF:-1 group-title="Venezuela",Venezolana de Televisión
+https://www.dailymotion.com/embed/video/x828i6j
+
+#EXTINF:-1 group-title="Venezuela",Televen
+https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
+
+#EXTINF:-1 group-title="Venezuela",Globovisión
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+
+#EXTINF:-1 group-title="Venezuela",Vale TV
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+
+#EXTINF:-1 group-title="Venezuela",Telesur
+https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8
+
+#EXTINF:-1 group-title="Venezuela",Latina TV
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+
+#EXTINF:-1 group-title="Venezuela",inter TV
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Venezuela",Aguacate TV
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Venezuela",AS3 Sport TV
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+
 #Brazil
 
 #EXTINF:-1 group-title="Brazil" tvg-id="BraziTV.us",BraziTV
