@@ -450,54 +450,79 @@ https://live.presstv.ir/hls/hispantv.m3u8
 
 #EXTINF:-1 group-title="Spain" tvg-id="La1.es",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="La2.es",La 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="Antena3.es",Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="Cuatro.es",Cuatro
 http://185.189.225.150:85/CuatroHD/index.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="Telecinco.es",Telecinco
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="LaSexta.es",La Sexta
 http://185.189.225.150:85/LaSexta/index.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="24h.es",24h
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="tdp.es",tdp
 https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="clan.es",clan
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="TVEInternacionalEuropeAsia.es",TVE Internacional Europe-Asia
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="Neox.es",Neox
 http://185.189.225.150:85/neox/index.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="Nova.es",Nova
 http://185.189.225.150:85/nova/index.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="Mega.es",Mega
 http://185.189.225.150:85/mega/index.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="Atreseries.es",Atreseries
 http://181.78.109.48:8000/play/a00l/index.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="FactoriadeFiccion.es",FDF
 http://185.189.225.150:85/fdf/index.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="Divinity.es",Divinity
 https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="Energy.es",Energy
 https://directos.energytv.es/orilinear03/live/linear03/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="Boing.es",Boing
 http://185.189.225.150:85/boing/index.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="BeMad.es",Be Mad
 https://directos.bemad.es/orilinear02/live/linear02/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="ParamountNetwork.es",Paramount Network
 http://185.189.225.150:85/Paramount/index.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="RNE.es",RNE para todos
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="Euronews.es",euronews
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="ElPaisTV.es",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="NegociosTV.es",Negocios
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="Squirrel.es",Squirrel
 https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
+
 #EXTINF:-1 group-title="Spain" tvg-id="BomCine.es",BOM Cine
 https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
 
