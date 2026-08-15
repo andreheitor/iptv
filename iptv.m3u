@@ -246,6 +246,510 @@ https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 group-title="Spain",Zylo Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 
+#EXTINF:-1 group-title="Spain" tvg-id="3CatCameresdeltemps.es@SD",3Cat Càmeres del temps
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="3CatExclusiu1.es@SD",3Cat Exclusiu 1
+https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="3CatExclusiu1.es@SD",3Cat Exclusiu 1
+https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="3CatExclusiu2.es@SD",3Cat Exclusiu 2
+https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="3CatExclusiu2.es@SD",3Cat Exclusiu 2
+https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="3CatExclusiu3.es@SD",3Cat Exclusiu 3
+https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="3CatExclusiu3.es@SD",3Cat Exclusiu 3
+https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="3CatPlatsbruts.es@SD",3Cat Plats bruts
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="3CatInfo.es@SD",3CatInfo
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Esport3.es@SD",Esport3
+https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Esport3.es@Originals",Esport3
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Esport3.es@Originals",Esport3
+https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="EsteCanalTV.es@SD",Este Canal TV
+http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="EsteponaTelevision.es@SD",Estepona Televisión
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="EsTuTele.es@SD",EsTuTele
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="ETB1.es@SD",ETB 1
+https://cdn1.etbon.eus/etb1/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="ETB1On.es@HD",ETB1 On
+https://cdn1.etbon.eus/etb1on/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="ETB1On.es@HD",ETB1 On
+https://cdn1.etbon.eus/etb1on/index.mpd
+
+#EXTINF:-1 group-title="Spain" tvg-id="ETB2.es@SD",ETB 2
+https://cdn1.etbon.eus/etb2/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="ETB2On.es@HD",ETB2 On
+https://cdn1.etbon.eus/etb2on/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="ETB2On.es@HD",ETB2 On
+https://cdn1.etbon.eus/etb2on/index.mpd
+
+#EXTINF:-1 group-title="Spain" tvg-id="ETBEvents1.es@SD",ETB Events 1
+https://cdn1.etbon.eus/oc1/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="etv.es@SD",ETV Terramar
+https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Fibwi.es@SD",Fibwi
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="FuerteventuraTV.es@SD",Fuerteventura TV
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="GaliciaTVEuropa.es@SD",Galicia TV Europa
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="GoienaEus.es@SD",Goiena Eus
+https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="GuadaTV.es@SD",Guada TV
+https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Historia.es@HD",Historia HD
+https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="HOLAPlay.es@SD",HOLA! Play
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="HuelvaTV.es@SD",Huelva TV
+https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="ImasTV.es@SD",Imás TV
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="InteralmeriaTV.es@SD",Interalmeria TV
+https://interalmeria.tv/directo/live.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="IntercomarcalTV.es@SD",Intercomarcal TV
+https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="KinoKazka.es@SD",KinoKazka
+http://stream.mcquack.net/167/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="La1.es@SD",La 1
+https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="La1.es@SD",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="La1.es@SD",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="La1Canarias.es@SD",La 1 Canarias
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="La1Canarias.es@SD",La 1 Canarias
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="La1Catalunya.es@SD",La 1 Catalunya
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="La1Catalunya.es@SD",La 1 Catalunya
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="La1.es@UHD",La 1 UHD
+http://185.47.212.25:8080/tdp_HD/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="La2.es@SD",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="La2Canarias.es@SD",La 2 Canarias
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="La2Catalunya.es@SD",La 2 Catalunya
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="La8Mediterraneo.es@SD",La 8 Mediterraneo
+https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="LaUrbanTV.es@SD",La Urban TV
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="LancelotTV.es@SD",Lancelot TV
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="LigadeCampeonesporMovistarPlusPlus.es@SD",Liga de Campeones por Movistar Plus+
+https://7nyaler.streamhostingcdn.top/stream/36/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="LleidaTelevisio.es@SD",Lleida Televisió
+https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 group-title="Spain" tvg-id="LogosTV.es@SD",Logos TV
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="LogosTVEstudio.es@SD",Logos TV Estudio
+https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="LogosTVKids.es@SD",Logos TV Kids
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="LogosTVSalud.es@SD",Logos TV Salud
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="LoveThePlanet.es@EN",Love The Planet
+https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="LoveThePlanet.es@DE",Love The Planet DE
+https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="LoveThePlanet.es@ES",Love The Planet ES
+https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="LoveThePlanet.es@IT",Love The Planet IT
+https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="M95TelevisionMarbella.es@SD",M95 Televisión Marbella
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="MaestratTV.es@SD",Maestrat TV
+https://stream.maestrat.tv/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="MataroTelevisio.es@SD",Mataró Televisió
+https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 group-title="Spain" tvg-id="Mijas340TV.es@SD",Mijas 3.40TV
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="MirameTV.es@SD",Mírame TV
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="MolahitsTV.es@SD",Molahits TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="MusicTVGranada.es@SD",Music TV Granada
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="NatureTime.ca@ES",NatureTime
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="NegociosTV.es@SD",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Nortevision.es@SD",NORTEvisión
+http://amaru.dyndns.org:8870/0.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Nova.es@SD",Nova
+http://40.160.24.55/Nova/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="OlotTV.es@SD",Olot TV
+https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 group-title="Spain" tvg-id="Onda15TV.es@SD",Onda 15 TV
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="OndaAlgeciras.es@SD",Onda Algeciras TV
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="OndaCadiz.es@SD",Onda Cádiz 24h
+https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="OndaValenciaTV.es@SD",Onda Valencia
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="ParlamentodeAndalucia.es@SD",Parlamento de Andalucía
+http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="ParlamentodeNavarra.es@SD",Parlamento de Navarra
+https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="PenedesTelevisio.es@SD",Penedès Televisió
+https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 group-title="Spain" tvg-id="Pequeradio.es@SD",Pequeradio
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="PieraTV.es@SD",Piera TV
+http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="PirineusTV.es@SD",Pirineus TV
+https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="PlatziTV.es@SD",Platzi TV
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="POPWorldTV.es@SD",POP World TV
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="PopularTVMelilla.es@SD",Popular TV Melilla
+http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="PopularTVMurcia.es@SD",Popular TV Murcia
+https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="PTVCordoba.es@SD",PTV Córdoba
+https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="PTVGranada.es@SD",PTV Granada
+https://streamer.zapitv.com/PTV-granada/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="PTVLinares.es@SD",PTV Linares
+https://streamer.zapitv.com/ptv-linarez/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="PTVMalaga.es@SD",PTV Málaga
+https://streamer.zapitv.com/PTV-malaga/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="PTVSevilla.es@SD",PTV Sevilla
+https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Punt3.es@SD",Punt 3 Vall Uixó
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Radio3.es@SD",Radio 3
+https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="RadioBocairentTV.es@SD",Ràdio Bocairent TV
+http://185.81.77.4/BocairentTV/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="RadioCarnavalTV.es@SD",Radio Carnaval TV
+https://eu1.servers10.com:8081/8116/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="RakutenViki.us@Spain",Rakuten Viki
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="RealMadridTV.es@SD",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="RealMadridTVEnglish.es@SD",Real Madrid TV English
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="RealMadridTVEnglish.es@SD",Real Madrid TV English
+http://88.212.15.19/live/real_madrid_tv/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="RiberaTV.es@SD",Ribera TV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVR.es@SD",Rioja Televisión
+https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="RNEparatodos.es@SD",RNE para todos
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="RTVElVendrell.es@SD",RTV El Vendrell
+https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="RTVManilva.es@SD",RTV Manilva
+https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="RadioTelevisionMarbella.es@SD",RTV Marbella
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="RTVVida.es@SD",RTV Vida
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="RTVCCardedeu.es@SD",RTVC Cardedeu
+https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="SevillaFCTV.es@SD",Sevilla FC TV
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="SolMusica.es@SD",Sol Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="SolidariaTV.es@SD",Solidaria TV
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="SpektraTV.es@SD",SpektraTV
+https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="SX3.es@SD",SX3
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="SX3.es@SD",SX3
+https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Taroteame.es@SD",Tarotéame
+https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TBNEspana.es@SD",TBN España
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Tele7.es@SD",Tele 7
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TeleElx.es@SD",Tele Elx
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TeleSafor.es@SD",Tele Safor
+https://video.telesafor.com/hls/video.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TeleBilbao.es@SD",TeleBilbao
+https://tbilbo.dyndns.org/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Teledeporte.es@SD",Teledeporte
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Teledeporte.es@SD",Teledeporte
+https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Teleganes.es@SD",Teleganés
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Telemadrid.es@HD",Telemadrid HD
+https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Telemotril.es@SD",Telemotril
+https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Teleonuba.es@SD",Teleonuba
+https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TeleRibera.es@SD",TeleRibera
+https://video1.lhdserver.es/teleribera/live.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TeleVigo.es@SD",TeleVigo
+https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TelevisionAranda.es@SD",Televisión Aranda
+https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TelevisionCanaria.es@SD",Television Canaria
+https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TelevisionConsciente.es@SD",Televisión Consciente
+https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TitoTV.es@HD",Tito TV
+https://cloud.tvomix.com/TITOTV/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Trece.es@SD",Trece TV
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TV3.es@SD",TV3
+https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TV3.es@SD",TV3
+https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TV3CAT.es@SD",TV3CAT
+https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TV3CAT.es@SD",TV3CAT
+https://directes-tv-es.3catdirectes.cat/live-origin/tvc-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVA.es@SD",TV Artequatre
+https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVBergueda.es@SD",TV Berguedà
+https://liveingesta318.cdnmedia.tv/berguedatvlive/smil:migracion.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVCostaBrava.es@SD",TV Costa Brava
+https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVGirona.es@SD",TV Girona
+http://ventdelnord.tv:8080/girona/directe.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVLHospitalet.es@SD",TV L'Hospitalet
+https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVRipolles.es@SD",TV Ripollès
+https://liveingesta318.cdnmedia.tv/tvripolleslive/smil:live.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVSabadellValles.es@SD",TV Sabadell-Vallès
+https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TelevisiondeSanVicente.es@SD",TV San Vicente
+https://emision.arpamedia.es:4343/hls/tvsanvicenteweb.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVCentroAndalucia.es@SD",TVCentro Andalucía
+https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVEInternacionalAmerica.es@SD",TVE Internacional America
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVEInternacionalAmerica.es@HD",TVE Internacional America HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVEInternacionalAsiaOceania.es@SD",TVE Internacional Asia-Oceania
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVEInternacionalAsiaOceania.es@HD",TVE Internacional Asia-Oceania HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVEInternacionalEurope.es@SD",TVE Internacional Europe
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVEInternacionalEurope.es@HD",TVE Internacional Europe HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVEStar.es@SD",TVE Star
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVEStar.es@HD",TVE Star HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVEStar.es@HD",TVE Star HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVG2.es@SD",TVG2
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVMCordoba.es@SD",TVM Córdoba
+http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVMCordoba.es@SD",TVM Córdoba
+https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVOJesus.es@SD",TVO Jesus
+https://cloud.tvomix.com/TVOJESUS/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVOMIX.es@HD",TVOMIX
+https://cloud.tvomix.com/TVOMIX/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVReus.es@SD",TVReus
+https://eu1.servers10.com:8081/8166/index.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="UneVinalopo.es@SD",Une Vinalopó
+https://streamingtvi.gestec-video.com/hls/unesd.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="UniversTV.es@SD",Univers TV
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="UrolaTelebista.es@SD",Urola Telebista
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="VallesVisio.es@SD",Vallès Visió
+https://liveingesta318.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="VentdelnordTV.es@SD",Ventdelnord TV
+http://ventdelnord.tv:8080/hls/directe.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="Vision6TV.es@SD",Vision 6 TV
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="XPTV2.es@SD",XPTV2
+https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="XPTVUS.es@SD",XPTV US
+https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+
+#EXTINF:-1 group-title="Spain" tvg-id="TVEInternacionalAmerica.es@SD",TVE Internacional America
+https://streamer.metronethn.com/TVE/index.m3u8
+
 #Venezuela
 
 #EXTINF:-1 group-title="Venezuela",Latina TV
